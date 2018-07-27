@@ -33,8 +33,6 @@ public class Principal {
 	public void tearDown() throws Exception {
 		driver.quit();
 	}
-
-	//sera  q foi
 	
 	
 }
